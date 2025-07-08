@@ -1,0 +1,30 @@
+[
+  {
+    id: 1,
+    infos: {
+      name: "Hospital",
+      details: {
+        type: "Medical",
+        rating: 4.5
+      }
+    },
+    coordinates: {
+      latitude: 34.0522,
+      longitude: -118.2437
+    }
+  },
+  {
+    id: 2,
+    infos: {
+      name: "Library",
+      details: {
+        type: "Public",
+        rating: 4.2
+      }
+    },
+    coordinates: {
+      latitude: 40.7128,
+      longitude: -74.0060
+    }
+  }
+]
